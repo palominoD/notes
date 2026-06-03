@@ -4,5 +4,8 @@ smart grid
 trabajo dentro de parques solares, de centrales electricas, depuradoras de agua.  
 comunicacion remota  
 celere capacidad con sensores para uso wifi o bluethoo. (camaras, servicio de datos)  
-Proceso de datos limitada
-
+Proceso de datos limitada  
+proceso de integracion ocn terceros para IA.  
+No se brida la solucion de interface o software, solo se brinda la capa fisica de conexion  
+dar conexion lan y wan, ademas de agergar una caopa de cdfiberseguridad  
+Monitoreo de comportamiento diferente de los comandos enviados en base a reglas predefinidas.  
